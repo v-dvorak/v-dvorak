@@ -14,7 +14,8 @@
 ## Honorable mentions
 
 - [**Graphbased Wavefunction Collapse**](https://github.com/v-dvorak/graphbased-wfc), C# - graphbased implementation of wavefunction collapse, used for procedural generation
-- [**Ruskey-Savage Conjecture**](https://github.com/v-dvorak/ruskey-savage-conjecture), Haskell - test the conjencture for small values of *n*
+- [**Ruskey-Savage Conjecture**](https://github.com/v-dvorak/ruskey-savage-conjecture), Haskell - tests the conjencture for small values of *n*
+- [**Arduino Keypad**](https://github.com/v-dvorak/arduino-keypad) - reads data from matrix keypad, displays them on LCD, send them out via USART
 
 ## Academic Work
 
