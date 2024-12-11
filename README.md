@@ -9,7 +9,6 @@
 
 - [**HiMap**](https://github.com/v-dvorak/himap) - downloading high resolution maps via Google Maps Static API
 - [**NTK Viz**](https://github.com/v-dvorak/ntk-viz) - number of visitors inside Czech National Technical Library visualization
-[https://v-dvorak.github.io/](https://v-dvorak.github.io/)
 
 ## Honorable mentions
 
