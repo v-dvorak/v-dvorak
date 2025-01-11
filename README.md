@@ -16,9 +16,13 @@
 - [**Ruskey-Savage Conjecture**](https://github.com/v-dvorak/ruskey-savage-conjecture), Haskell - tests the conjencture for small values of *n*
 - [**Arduino Keypad**](https://github.com/v-dvorak/arduino-keypad) - reads data from matrix keypad, displays them on LCD, sends them out via USART
 
-## Academic Work
+## Publications
 
 - [**Staff Layout Analysis Using the YOLO Platform**](https://arxiv.org/abs/2411.15741) (publication, 🇬🇧, 2024)
+
+## Other academic Work
+
+- [**NPGR035 Notes**](https://github.com/v-dvorak/npgr035-notes) (Strojové učení v počítačovém vidění, 🇨🇿, 2025)
 - [**NDBI045 Notes**](https://github.com/v-dvorak/ndbi045-notes) (Vyhledávání ve videu, 🇨🇿, 2024)
 - [**NPFL129 Answered Questions**](https://github.com/v-dvorak/npfl129-answers) (Úvod do strojového učení v Pythonu, 🇨🇿, 2023)
 - [**NPRG062 Collection of Test Assignments**](https://github.com/v-dvorak/nprg062-exam) (Algoritmizace, 🇨🇿, 2022)
